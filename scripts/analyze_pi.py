@@ -6,9 +6,12 @@ import matplotlib.pyplot as plt
 # =========================
 # CONFIGURACIÓN
 # =========================
-CSV_PATH = "../data/pi_run_01.csv"
-FIG_PATH = "../figures/pi_response.png"
-TXT_PATH = "../docs/pi_results.txt"
+CSV_PATH = "../data/pi_run_02.csv"
+
+run_id = os.path.splitext(os.path.basename(CSV_PATH))[0]
+
+FIG_PATH = "../figures/{run_id}_response.png"
+TXT_PATH = "../docs/{run_id}_results.txt"
 
 # Banda para tiempo de asentamiento (ej: 0.05 = ±5%)
 SETTLING_BAND = 0.05

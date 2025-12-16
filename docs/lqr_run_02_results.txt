@@ -1,0 +1,13 @@
+=== RESULTADOS LQR (lqr_run_02) ===
+Archivo: ../data\lqr_run_02.csv
+Figura:  ../figures\lqr_run_02_response.png
+
+t_step (inicio escalón): 2.096 s
+Referencia final (último 20%): 17000.00 counts/s
+Banda asentamiento: ±5.0% -> [16150.00, 17850.00] counts/s
+
+=== MÉTRICAS ===
+Error estacionario (ref_final - y_final): -90.00 counts/s
+Overshoot: 3.41 %
+RMSE (post-escalón): 2775.32 counts/s
+Tiempo de asentamiento (Ts, ±5.0%): 0.700 s

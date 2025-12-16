@@ -1,0 +1,29 @@
+=== RESUMEN GLOBAL LQR (todos los ensayos) ===
+
+Ensayos analizados: 20
+Banda Ts: ±5.0%
+
+Error estacionario (counts/s):
+  mean = -91.312
+  std  = 6.945
+  min  = -116.250
+  max  = -86.250
+
+Overshoot (%):
+  mean = 3.065
+  std  = 0.364
+  min  = 2.353
+  max  = 3.706
+
+RMSE (counts/s):
+  mean = 2773.442
+  std  = 6.312
+  min  = 2764.420
+  max  = 2787.778
+
+Ts (s):
+  mean = 0.700
+  std  = 0.000
+  min  = 0.700
+  max  = 0.700
+
