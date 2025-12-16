@@ -1,0 +1,13 @@
+=== RESULTADOS PID (pid_run_08) ===
+Archivo: ../data\pid_run_08.csv
+Figura:  ../figures\pid_run_08_response.png
+
+t_step (inicio escalón): 2.096 s
+Referencia final (último 20%): 17000.00 counts/s
+Banda asentamiento: ±5.0% -> [16150.00, 17850.00] counts/s
+
+=== MÉTRICAS ===
+Error estacionario (ref_final - y_final): 15.00 counts/s
+Overshoot: 11.35 %
+RMSE (post-escalón): 1999.16 counts/s
+Tiempo de asentamiento (Ts, ±5.0%): 1.100 s

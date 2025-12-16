@@ -1,0 +1,29 @@
+=== RESUMEN GLOBAL PID (todos los ensayos) ===
+
+Ensayos analizados: 20
+Banda Ts: ±5.0%
+
+Error estacionario (counts/s):
+  mean = 12.781
+  std  = 18.820
+  min  = -19.375
+  max  = 55.625
+
+Overshoot (%):
+  mean = 10.976
+  std  = 0.495
+  min  = 9.647
+  max  = 11.647
+
+RMSE (counts/s):
+  mean = 1993.938
+  std  = 5.526
+  min  = 1978.518
+  max  = 2005.268
+
+Ts (s):
+  mean = 1.100
+  std  = 0.000
+  min  = 1.100
+  max  = 1.100
+
