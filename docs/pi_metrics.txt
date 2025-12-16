@@ -1,0 +1,6 @@
+PI – Resultados experimentales
+Setpoint: 17000 counts/s
+
+Error estacionario: 63.25 counts/s
+Overshoot: 10.76 %
+RMSE: 1992.70 counts/s

@@ -1,0 +1,29 @@
+=== RESUMEN GLOBAL PI (todos los ensayos) ===
+
+Ensayos analizados: 20
+Banda Ts: ±5.0%
+
+Error estacionario (counts/s):
+  mean = 12.188
+  std  = 14.362
+  min  = -11.250
+  max  = 36.250
+
+Overshoot (%):
+  mean = 11.044
+  std  = 0.264
+  min  = 10.529
+  max  = 11.588
+
+RMSE (counts/s):
+  mean = 1998.009
+  std  = 3.509
+  min  = 1991.479
+  max  = 2003.234
+
+Ts (s):
+  mean = 1.100
+  std  = 0.000
+  min  = 1.100
+  max  = 1.100
+
