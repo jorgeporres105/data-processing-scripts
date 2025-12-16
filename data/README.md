@@ -1,26 +1,20 @@
-\# Datos experimentales (CSV)
+Datos experimentales de velocidad (counts/s) obtenidos en un motor DC con encoder.
 
 
 
-Cada archivo CSV corresponde a un ensayo.
+La carpeta contiene 20 ensayos por controlador:
+
+\- pi
+
+\- pid
+
+\- lqr
 
 
 
-Formato esperado por los scripts (una fila por muestra):
+Formato CSV:
 
-t,ref,y,u,dcnt
-
-
-
-\- t: tiempo \[s]
-
-\- ref: referencia (counts/s o rpm)
-
-\- y: salida medida (counts/s o rpm)
-
-\- u: señal de control \[-1..1]
-
-\- dcnt: delta de encoder por ventana
+t, ref, y, u
 
 
 
