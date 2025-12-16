@@ -1,0 +1,13 @@
+=== RESULTADOS CONTROL PI (desde CSV) ===
+Archivo: ../data/pi_run_01.csv
+t_step (inicio del escalón): 2.096 s
+Referencia final (promedio último 20%): 17000.00 counts/s
+Banda de asentamiento: ±5.0% -> [16150.00, 17850.00] counts/s
+
+=== MÉTRICAS ===
+Error estacionario (ref_final - y_final): 28.12 counts/s
+Overshoot: 10.76 %
+RMSE (post-escalón): 1992.70 counts/s
+Tiempo de asentamiento (Ts, ±5.0%): 1.100 s
+
+Figura guardada en: ../figures/pi_response.png
