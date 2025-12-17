@@ -1,0 +1,6 @@
+=== RESUMEN 20 ENSAYOS: PI ===
+
+e_ss: 14.212 ± 15.400
+overshoot_pct: 11.044 ± 0.270
+rmse: 1998.009 ± 3.600
+settling_time_s: 1.100 ± 0.000

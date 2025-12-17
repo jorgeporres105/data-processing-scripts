@@ -1,0 +1,6 @@
+=== RESUMEN 20 ENSAYOS: PID ===
+
+e_ss: 10.600 ± 24.245
+overshoot_pct: 10.976 ± 0.508
+rmse: 1993.938 ± 5.669
+settling_time_s: 1.100 ± 0.000

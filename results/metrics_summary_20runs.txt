@@ -1,0 +1,20 @@
+=== RESUMEN GLOBAL (20 ENSAYOS POR CONTROLADOR) ===
+
+[PI]
+e_ss: 14.212 ± 15.400 counts/s
+Overshoot: 11.044 ± 0.270 %
+RMSE: 1998.009 ± 3.600 counts/s
+Ts (±5%): 1.100 ± 0.000 s
+
+[PID]
+e_ss: 10.600 ± 24.245 counts/s
+Overshoot: 10.976 ± 0.508 %
+RMSE: 1993.938 ± 5.669 counts/s
+Ts (±5%): 1.100 ± 0.000 s
+
+[LQR/LQI]
+e_ss: -93.506 ± 11.792 counts/s
+Overshoot: 3.065 ± 0.373 %
+RMSE: 2773.442 ± 6.476 counts/s
+Ts (±5%): 0.700 ± 0.000 s
+

@@ -1,0 +1,6 @@
+=== RESUMEN 20 ENSAYOS: LQR/LQI ===
+
+e_ss: -93.506 ± 11.792
+overshoot_pct: 3.065 ± 0.373
+rmse: 2773.442 ± 6.476
+settling_time_s: 0.700 ± 0.000
